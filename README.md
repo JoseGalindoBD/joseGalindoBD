@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi there, I am Jose Galindo,
+Software Engineer from 🇧🇩. Exploring and learning new technology is my passion.
+### { ... } My Stack
+{
+   "languages": ["JavaScript", "C#"],
+   "backend": [".NET Core"],
+   "frontend": ["Vue.js"],
+   "databases": ["MS-SQL-Server", "MySQL", "PostgreSQL"],
+   "experimenting": ["Python", "Docker"]
+}
+### 🏆 Achievements
