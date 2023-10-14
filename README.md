@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 Software Engineer from 🇧🇩. Exploring and learning new technology is my passion.
 ### { ... } My Stack
 {
-   "languages": ["JavaScript", "C#"],
-   "backend": [".NET Core"],
-   "frontend": ["Vue.js"],
-   "databases": ["MS-SQL-Server", "MySQL", "PostgreSQL"],
+   "languages": ["C++", "C#"],
+   "backend": ["Java, J2EE"],
+   "frontend": ["HTML, CSS, JS framework"],
+   "databases": ["Oracle", "MS-SQL-Server", "MySQL", "PostgreSQL"],
    "experimenting": ["Python", "Docker"]
 }
 ### 🏆 Achievements
